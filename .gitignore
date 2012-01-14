@@ -34,5 +34,8 @@ src/*_test
 src/config.h
 src/config.h.in
 src/fir_hilbert_coeffs.h
+src/sndfile-generate-chirp
+src/sndfile-jackplay
+src/sndfile-mix-to-mono
 src/sndfile-pitch-infer
 src/stamp-h1
